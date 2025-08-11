@@ -87,7 +87,7 @@ O dashboard está organizado em **quatro páginas principais**:
 ---
 
 ## Como abrir
-1. Baixe o arquivo [`Mini-Projeto 1 - Análise de Campanhas de Marketing.pbix`](./projeto.pbix) disponível neste repositório.
+1. Baixe o arquivo [`Mini-Projeto_1_Analise_Campanhas_Marketing.pbix`](Mini-Projeto_1_Analise_Campanhas_Marketing.pbix) disponível neste repositório.
 2. Abra o arquivo no **Power BI Desktop** (disponível gratuitamente no site da Microsoft).
 3. Todas as páginas do dashboard estarão disponíveis para navegação local.
 
