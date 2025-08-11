@@ -25,7 +25,7 @@ O projeto visa:
 ---
 
 ## Dataset
-Arquivo: [`dados_marketing.csv`](dados_marketing.csv)
+Arquivo: [`dados_marketing.csv`](dataset/dados_marketing.csv)
 Base simulada de marketing, com 27 colunas e dados de clientes, compras e campanhas.
 
 **Principais campos:**
@@ -35,7 +35,7 @@ Base simulada de marketing, com 27 colunas e dados de clientes, compras e campan
 - **Campanhas:** indicadores de compra nas Campanhas 1 a 5, variável final "Comprou"
 - **Datas:** Data de cadastro, dias desde a última compra
 
-Dicionário de dados: [`dados_marketing.csv`](dados_marketing.csv)
+Dicionário de dados: [`dados_marketing.csv`](dataset/dados_marketing.csv)
 
 ---
 
