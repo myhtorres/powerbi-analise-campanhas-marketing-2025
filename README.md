@@ -99,7 +99,6 @@ O dashboard está organizado em **quatro páginas principais**:
   <img src="./prints/visao_produtos_venda.png" width="420" />
 </p>
 
-
 > Este projeto utiliza dados fictícios e pode ser aberto e explorado livremente no Power BI Desktop, sem necessidade de conexão a banco de dados externo.
 ---
 
