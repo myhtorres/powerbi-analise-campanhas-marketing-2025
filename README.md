@@ -25,7 +25,7 @@ O projeto visa:
 ---
 
 ## Dataset
-Arquivo: [`dataset/dados_marketing.csv`](dataset/dados_marketing.csv)  
+Arquivo: [`dataset/dados_marketing.csv`](dataset/dados_marketing.csv)
 Base simulada de marketing, com 27 colunas e dados de clientes, compras e campanhas.
 
 **Principais campos:**
@@ -86,7 +86,7 @@ O dashboard está organizado em **quatro páginas principais**:
 
 ---
 
-## ▶️ Como abrir
+## Como abrir
 1. Baixe o arquivo [`Mini-Projeto 1 - Análise de Campanhas de Marketing.pbix`](./projeto.pbix) disponível neste repositório.
 2. Abra o arquivo no **Power BI Desktop** (disponível gratuitamente no site da Microsoft).
 3. Todas as páginas do dashboard estarão disponíveis para navegação local.
@@ -100,8 +100,8 @@ O dashboard está organizado em **quatro páginas principais**:
 </p>
 
 
-> ℹ️ Este projeto utiliza dados fictícios e pode ser aberto e explorado livremente no Power BI Desktop, sem necessidade de conexão a banco de dados externo.
+> Este projeto utiliza dados fictícios e pode ser aberto e explorado livremente no Power BI Desktop, sem necessidade de conexão a banco de dados externo.
 ---
 
-## 📄 Licença
+## Licença
 Este projeto é distribuído sob a licença MIT. Veja `LICENSE` para detalhes.
